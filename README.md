@@ -1,7 +1,7 @@
 # my-notes
-### my name is *sakher shteyat* .
 
- i have a bachelor degree in **Computer science** frome **jordan universty of science and technology**
+
+ I have a bachelor degree in **Computer science** frome **jordan universty of science and technology**
  and I have skills in a number of programming languages ​​like:
 1. **python**
 2. **C++**
