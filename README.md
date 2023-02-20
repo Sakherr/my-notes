@@ -7,7 +7,9 @@
 2. **C++**
 3. **java**
 4. **javascript**
-I have some interests in several fields within the framework of technology such as :
+ 
+ And I have some interests in several fields within the framework of technology such as :
+
 - **Data science**
 - **Web developer**
 - **AI**
