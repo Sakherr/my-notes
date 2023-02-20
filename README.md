@@ -14,7 +14,7 @@ I have some interests in several fields within the framework of technology such 
 - **IOT**
 
 # Today I learned several things such as :
-"How to create directories and files, and what is the difference between them? I have also learned how to open a file and a directory in the terminal. Additionally, what is the difference between Git and GitHub? What is a VCS and how does it actually work? I have learned some commands such as:
+How to create directories and files, and what is the difference between them. I have also learned how to open a file and a directory in the terminal. Additionally, what is the difference between Git and GitHub? What is a VCS and how does it actually work. I have learned some commands such as:
 
 1. **'pwd'** to show the current directory
 2. **'mkdir'** to create a new folder or directory
